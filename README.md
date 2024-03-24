@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=yasir-akkaya&icon=3&color=7)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🎯I’m currently learning Python
 
@@ -13,5 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-akkaya&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasir-akkaya&icon=3&color=7)](https://visitcount.itsvg.in)
+
 
